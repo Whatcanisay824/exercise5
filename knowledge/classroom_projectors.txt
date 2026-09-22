@@ -1,0 +1,17 @@
+CLASSROOM PROJECTORS
+
+Teaching rooms contain projectors or large displays.
+
+Typical connection methods:
+- HDMI
+- USB-C adapter
+- Wireless presentation systems in selected rooms
+
+If no image appears:
+1. Check that the display is powered on.
+2. Select the correct input.
+3. Check the cable or adapter.
+4. Confirm that the computer detects the display.
+5. Check display mirroring or extension settings.
+
+Report persistent faults with the room number and a description.

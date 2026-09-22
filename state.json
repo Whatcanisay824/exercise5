@@ -1,0 +1,55 @@
+{
+  "problem": "\nI changed my university password this morning.\nNow my Windows laptop won't connect to campus Wi-Fi,\nbut my phone still works.\n",
+  "selected_files": [
+    "knowledge\\password_changes.txt",
+    "knowledge\\service_status.txt",
+    "knowledge\\wifi_setup.txt"
+  ],
+  "compressed_context": "- A device may use cached old credentials after a password change.\n- Services already signed in may continue working temporarily.\n- A device may need to forget and reconnect to a network before it asks for the new password.\n- Check if the failing device has stored old credentials.\n- If connection still fails, confirm that your university account is active.\n- Verify Wi-Fi is enabled and check the username and password are current.",
+  "diagnostic_context": {
+    "diagnosis": "Device caches old credentials",
+    "likely_cause": "The laptop is likely still using cached credentials from before the password change",
+    "immediate_steps": [
+      "Forget the Wi-Fi network on the laptop",
+      "Reconnect to the Wi-Fi network and enter the new password",
+      "Check if the university account is active"
+    ],
+    "why_phone_works": "The phone may have cached the new credentials or was signed out, allowing it to connect with the new password",
+    "escalation": "Report the issue to IT support if the laptop still cannot connect",
+    "files_used": [
+      "password_changes.txt",
+      "wifi_setup.txt"
+    ]
+  },
+  "created_at": "2026-09-22T02:44:10.506575+00:00",
+  "isolated": {
+    "diagnostic_context": {
+      "problem": "\nI changed my university password this morning.\nNow my Windows laptop won't connect to campus Wi-Fi,\nbut my phone still works.\n",
+      "device": "Windows laptop",
+      "wifi_status": "operational",
+      "selected_files": [
+        "knowledge\\password_changes.txt",
+        "knowledge\\service_status.txt",
+        "knowledge\\wifi_setup.txt"
+      ],
+      "diagnosis": "Device caches old credentials",
+      "likely_cause": "The laptop is likely still using cached credentials from before the password change",
+      "immediate_steps": [
+        "Forget the Wi-Fi network on the laptop",
+        "Reconnect to the Wi-Fi network and enter the new password",
+        "Check if the university account is active"
+      ],
+      "why_phone_works": "The phone may have cached the new credentials or was signed out, allowing it to connect with the new password",
+      "escalation": "Report the issue to IT support if the laptop still cannot connect",
+      "files_used": [
+        "password_changes.txt",
+        "wifi_setup.txt"
+      ]
+    },
+    "report_context": {
+      "total_wifi_cases": 37,
+      "resolved_cases": 29,
+      "unresolved_cases": 8
+    }
+  }
+}

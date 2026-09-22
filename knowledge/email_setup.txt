@@ -1,0 +1,12 @@
+UNIVERSITY EMAIL SETUP
+
+University email can be accessed through webmail or a supported email application.
+
+Use your university email address and current university password.
+
+After a password change:
+- Webmail may request the new password at the next login.
+- Desktop and mobile email applications may continue trying a stored old password.
+- Update the saved password if synchronization stops.
+
+If email works but another university service does not, investigate the affected service separately.

@@ -1,0 +1,12 @@
+UNIVERSITY VPN
+
+The VPN allows authorized users to access selected university resources from outside campus.
+
+Before connecting:
+- Ensure that the device has a working Internet connection.
+- Install the approved VPN client.
+- Sign in using current university credentials.
+
+After a password change, the VPN client may retain old credentials. Update stored credentials if authentication fails.
+
+The VPN is normally not required simply to connect to campus eduroam Wi-Fi.

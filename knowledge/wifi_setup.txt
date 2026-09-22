@@ -1,0 +1,21 @@
+UNIVERSITY WI-FI SETUP AND TROUBLESHOOTING
+
+Network name: eduroam
+
+Windows
+1. Open Settings > Network & Internet > Wi-Fi.
+2. Select eduroam and enter your current university username and password.
+3. If you recently changed your university password, Windows may still have the old password cached.
+4. Choose "Forget" for the existing eduroam network, then reconnect using your new password.
+5. If connection still fails, confirm that your university account is active.
+
+macOS
+Open System Settings > Wi-Fi, select eduroam, and authenticate with your current university credentials. If old credentials are stored, remove the existing eduroam configuration and reconnect.
+
+Android and iOS
+Select eduroam in Wi-Fi settings and authenticate using current university credentials.
+
+General troubleshooting
+- Check that Wi-Fi is enabled.
+- Verify that the username and password are current.
+- Check the university service status before assuming the problem is device-specific.

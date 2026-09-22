@@ -1,0 +1,13 @@
+UNIVERSITY IT SERVICE STATUS
+
+Current status for this classroom exercise:
+
+eduroam campus Wi-Fi: OPERATIONAL
+University email: OPERATIONAL
+VPN service: OPERATIONAL
+Printing service: OPERATIONAL
+Learning platform: OPERATIONAL
+
+No university-wide Wi-Fi outage is currently reported.
+
+If a user can connect on one device but not another while Wi-Fi is operational, investigate the affected device's configuration or saved credentials.

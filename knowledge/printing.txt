@@ -1,0 +1,13 @@
+UNIVERSITY PRINTING SERVICE
+
+Students can print from university computer rooms and supported personal devices.
+
+Basic procedure:
+1. Connect to the university network.
+2. Select a university printer.
+3. Submit the document to the print queue.
+4. Authenticate at the printer.
+
+Common problems include an offline printer, insufficient print credit, a stuck print queue, or lack of network connectivity.
+
+For Wi-Fi authentication problems, consult the Wi-Fi support documentation rather than changing printer settings.
